@@ -1,0 +1,1 @@
+README del progetto test per il corso git
